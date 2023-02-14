@@ -1,0 +1,15 @@
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\bin\Debug\net7.0\Exam 1st quarter.exe
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\bin\Debug\net7.0\Exam 1st quarter.deps.json
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\bin\Debug\net7.0\Exam 1st quarter.runtimeconfig.json
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\bin\Debug\net7.0\Exam 1st quarter.dll
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\bin\Debug\net7.0\Exam 1st quarter.pdb
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\Exam 1st quarter.csproj.AssemblyReference.cache
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\Exam 1st quarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\Exam 1st quarter.AssemblyInfoInputs.cache
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\Exam 1st quarter.AssemblyInfo.cs
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\Exam 1st quarter.csproj.CoreCompileInputs.cache
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\Exam 1st quarter.dll
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\refint\Exam 1st quarter.dll
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\Exam 1st quarter.pdb
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\Exam 1st quarter.genruntimeconfig.cache
+C:\Users\eller\Desktop\homework\Exam 1st quarter\Final-work-1st-quarter\Exam 1st quarter\obj\Debug\net7.0\ref\Exam 1st quarter.dll
